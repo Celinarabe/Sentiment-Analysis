@@ -2,7 +2,7 @@
 
 Program created with sklearn to perform sentiment analysis on Amazon user reviews.
 
-Cleaned data pulls 2000 reviews from raw dataset which can be found here: http://jmcauley.ucsd.edu/data/amazon/
+Cleaned dataset pulled 2000 reviews from raw dataset which can be found here: http://jmcauley.ucsd.edu/data/amazon/
 
 Classifiers Used:
 Linear SVM
