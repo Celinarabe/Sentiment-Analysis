@@ -5,10 +5,10 @@ Program created with sklearn to perform sentiment analysis on Amazon user review
 Cleaned dataset pulled 2000 reviews from raw dataset which can be found here: http://jmcauley.ucsd.edu/data/amazon/
 
 Classifiers Used:
-Linear SVM
-Decision Tree
-Naive Bayes
-Logistic Regression
+Linear SVM,
+Decision Tree,
+Naive Bayes,
+Logistic Regression,
 
 
 
