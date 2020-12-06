@@ -11,5 +11,11 @@ Naive Bayes,
 Logistic Regression
 
 
+### Live Preview
+https://celinarabe.github.io/etch-a-sketch/
+
+
+
+
 
 
