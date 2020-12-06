@@ -11,7 +11,21 @@ Naive Bayes,
 Logistic Regression
 
 
-### Live Preview
+## Steps
+
+### Prep Data
+Split data into train/test sets with a test size of 0.33
+
+### Parametizing
+Input parameter: review text
+Output: sentiment determined by user rating
+
+### Vectorization
+Performed natural language processing using bag-of-words model.
+Vectorized the text reviews based on the term frequency inverse document frequency (TfidVectorizer)
+
+
+
 https://celinarabe.github.io/etch-a-sketch/
 
 
