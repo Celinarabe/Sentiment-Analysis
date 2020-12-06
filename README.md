@@ -17,11 +17,11 @@ Logistic Regression
 Split data into train/test sets with a test size of 0.33
 
 ### Parametizing
-Input parameter: review text\n
+Input parameter: review text \n
 Output: sentiment determined by user rating
 
 ### Vectorization
-Performed natural language processing using bag-of-words model.\n
+Performed natural language processing using bag-of-words model. \n
 Vectorized the text reviews based on the term frequency inverse document frequency (TfidVectorizer)
 
 
