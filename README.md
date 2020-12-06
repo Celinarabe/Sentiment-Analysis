@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-Program created with sklearn to perform natural language processing on Amazon user reviews.
+Natural language processing predictive model on Amazon user reviews.
 
 Raw Dataset: http://jmcauley.ucsd.edu/data/amazon/
 
